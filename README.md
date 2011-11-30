@@ -1,6 +1,6 @@
 # avv
 
-avv is a command line client for the http://fahrplan.avv.de/ interface. It requests public transport connections inside the AVV area.
+avv is a command-line client for the http://fahrplan.avv.de/ interface. It requests public transport connections inside the AVV area.
 
 ## Basic usage
 
