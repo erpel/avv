@@ -46,6 +46,8 @@ First you need [mechanize](http://mechanize.rubyforge.org/):
 
 Then copy the `avv.rb` file to a folder of your `$PATH` and you're ready to use it.
 
+avv uses ruby 1.9 features and will not work with older releases.
+
 ## License
 
 Copyright (c) 2011 Jan-Erik Rediger <http://fnordig.de/about/>
